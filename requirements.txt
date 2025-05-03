@@ -1,0 +1,7 @@
+scikit-learn
+transformers
+torch
+streamlit
+requests
+ollama
+abap-parser  # Add if you use an actual ABAP parsing
